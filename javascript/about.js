@@ -1,6 +1,6 @@
 // NOTE - this code is for education 
 const education_content = document.getElementById('education_content');
-
+console.log('good');
 for (let index = 0; index < education.length; index++) {
     const element = education[index];
     let level = document.createElement('div')
