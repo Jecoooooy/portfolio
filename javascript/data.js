@@ -124,14 +124,23 @@ const skills = {
 const experience = [
         {
             color: 'info',
-            date: 'January 20, 2024 - Present',
+            date: 'December 1, 2024 - Present',
+            title: 'Front-end Web developer',
+            company: 'Apollo Lightings Inc',
+            address:'PSE east tower Ortigas center, pasig',
+            logo:'../images/apollo-logo.jpeg',
+            content:'./images/apollo.jpeg',
+            alt:'No Photo Available'
+        },
+        {
+            color: 'info',
+            date: 'January 20, 2024 - October 11, 2024',
             title: 'Office Staff (Software Developer)',
             company: 'HRD Singapore Pte., Ltd.',
             address:'Housing/Production Industry',
             logo:'../images/hrd.jpg',
             content:'',
             alt:'No Photo Available'
-
         },
         {
             color: 'info',
